@@ -1,0 +1,11 @@
+{
+  "imus": ["1-IMU"],
+  "timeout": 300,
+  "init_counter": 0,
+  "sampling_frequency": 1,
+  "store_method": "csv",
+  "mqtt_broker": "131.175.120.117",
+  "mqtt_port": 1883,
+  "mqtt_topic": "aaac/campaign/imu",
+  "csv_store_dir": "csv"
+}
